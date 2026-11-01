@@ -1,23 +1,53 @@
+<div align="center">
+
 # Thousif Ibrahim
 
-**Cloud and Software Engineer** building full-stack products, cloud infrastructure, automation, and AI-enabled workflows.
+### Cloud & Software Engineer
 
-[Portfolio](https://smdthousif.web.app/) · [LinkedIn](https://linkedin.com/in/thousif-ibrahim-29050421b) · [Repositories](https://github.com/Thousifibrahim?tab=repositories)
+Full-stack application development · Cloud infrastructure · Enterprise technology solutions
 
-## Stack
+[**Portfolio**](https://smdthousif.web.app/) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/thousif-ibrahim-29050421b) &nbsp;·&nbsp; [**GitHub**](https://github.com/Thousifibrahim?tab=repositories)
 
-`.NET` · `ASP.NET Core` · `Angular` · `TypeScript` · `Python` · `Azure` · `Docker` · `SQL` · `CI/CD` · `AI integration`
+<br>
 
-## Selected work
+<img src="https://streak-stats.demolab.com?user=Thousifibrahim&theme=transparent&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
 
-- [**Session Optimizer**](https://github.com/Thousifibrahim/Session-Optimizer) — portable session memory with local embeddings and authenticated retrieval.
-- [**Signal Insights**](https://github.com/Thousifibrahim/Signal-insights) — traffic monitoring and operational insights.
-- [**Browser Selector**](https://github.com/Thousifibrahim/Browser-Selector) — privacy-first Windows browser launcher built with Rust and Tauri.
-- [**Qareeb**](https://github.com/Thousifibrahim/Qareeb) — community application with calendar, Quran, and event updates.
-- [**TraWell**](https://github.com/Thousifibrahim/TraWell) — travel planning platform built with ASP.NET Core and Angular.
+<br>
 
-## Profile
+## Technologies
 
-2+ years of engineering experience and 5+ client engagements across software development, cloud systems, and product design.
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,react,python,django,flask,azure,docker,postgres,mysql,git,linux,terraform&perline=8" alt="Tech stack icons" />
 
-GitHub's native contribution calendar below this README shows my public activity over time.
+<br>
+<br>
+
+<table>
+<tr><td align="center"><b>Software Development</b></td><td align="center">C# · .NET · ASP.NET Core · Angular · React · TypeScript · Python · Django · Flask</td></tr>
+<tr><td align="center"><b>Cloud & Infrastructure</b></td><td align="center">Microsoft Azure · Docker · Linux · Terraform · CI/CD · PostgreSQL · SQL Server</td></tr>
+<tr><td align="center"><b>AI & Automation</b></td><td align="center">Azure AI · OpenAI · LangChain · Power Automate · n8n</td></tr>
+</table>
+
+<br>
+
+## New Idea
+
+**[Session Optimizer](https://github.com/Thousifibrahim/Session-Optimizer)**
+
+A portable session memory solution featuring local embeddings and authenticated retrieval.
+
+<img src="https://img.shields.io/github/commit-activity/t/Thousifibrahim/Session-Optimizer?style=flat-square&label=commits" />
+<img src="https://img.shields.io/github/contributors/Thousifibrahim/Session-Optimizer?style=flat-square" />
+
+<br>
+
+## Professional Experience
+
+2+ years of engineering experience and 6+ client engagements across software development, cloud systems, and product design.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smdthousif.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thousif-ibrahim-29050421b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thousifibrahim?tab=repositories)
+
+</div>
