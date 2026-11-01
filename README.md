@@ -1,5 +1,7 @@
 # Thousif Ibrahim
 
+![platform: Windows](https://img.shields.io/badge/platform-Windows-6f42c1)
+
 I build practical software for automation, web applications, and data-driven workflows.
 
 [Projects](https://github.com/Thousifibrahim?tab=repositories) | [Portfolio](https://thousif-portfolio.web.app) | [LinkedIn](https://linkedin.com/in/thousif-ibrahim-29050421b)
